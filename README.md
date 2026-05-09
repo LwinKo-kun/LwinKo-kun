@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=LwinKo-kun&label=PROFILE+VIEWS&color=0e7afe&style=flat-square" alt="Views" />
 </p>
 
-I am a Computer Science student at the **University of Computer Studies, Monywa**, Myanmar. I bridge the gap between robust backend development and scalable cloud infrastructure. Currently focused on mastering Platform Engineering and High-Performance systems.
+I am a Computer Science student at the **University of Computer Studies, Monywa**, Myanmar. I bridge the gap between robust backend development and scalable cloud infrastructure. 
 
 ---
 
@@ -22,8 +22,8 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 ### 🏗️ What I'm Working On
 
-* **[Multi-tenant SaaS POS]** - Implementing complex Multi-tenancy using PostgreSQL **Row Level Security (RLS)** for data isolation.
-* **[Physics Simulation Lab]** - An interactive platform leveraging web technologies to visualize complex physics laws.
+* **[Multi-tenant SaaS POS]** - Implementing complex Multi-tenancy using PostgreSQL **Row Level Security (RLS)**.
+* **[Physics Simulation Lab]** - Interactive platform visualizing physics laws via web tech.
 * **[Learning]** - Completing the **IBM Full Stack Developer Professional Certificate**.
 
 ---
@@ -31,12 +31,13 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ### 📊 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LwinKo-kun&theme=radical&show_icons=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwinKo-kun&theme=radical&layout=compact&hide_progress=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LwinKo-kun&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  
+  <img width="43%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=LwinKo-kun&theme=radical" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LwinKo-kun&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 ---

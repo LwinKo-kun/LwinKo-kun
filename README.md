@@ -6,17 +6,16 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ---
 
 ### 🛠️ Tech Stack
-* **Core Languages:** JavaScript, PHP, C#
-* **Backend & DB:** Node.js, Laravel, PostgreSQL
-* **Frontend:** React, HTML/CSS
-* **Cloud & Infrastructure:** Docker, Kubernetes, Google Cloud Platform (GCP)
+* **Languages:** JavaScript (ES6+), PHP, C#, SQL
+* **Frameworks:** Node.js, Laravel, React
+* **Infrastructure:** Docker, Kubernetes, Google Cloud Platform (GCP)
+* **Tools:** Git, Linux, Postman
 
 ---
 
 ### 📈 Git Participation
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=LwinKo-kun&layout=compact&theme=dark&hide_border=true" alt="Participation" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LwinKo-kun&theme=dark&hide_border=true" alt="Contribution Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

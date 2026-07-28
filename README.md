@@ -13,6 +13,13 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 ---
 
+### 📈 Git Streak
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📈 Git Participation
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&theme=react-dark&hide_border=true" alt="Activity Graph" />

@@ -16,7 +16,7 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ### 📈 Git Streak
 <p align="center">
   <a href="https://github.com/LwinKo-kun">
-    <img width="100%" src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 

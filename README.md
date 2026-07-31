@@ -6,7 +6,7 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** JavaScript (ES6+), PHP, C#, SQL
+* **Languages:** JavaScript (ES6+), PHP, SQL
 * **Frameworks:** Node.js, Laravel, React
 * **Infrastructure:** Docker, Kubernetes, Google Cloud Platform (GCP)
 * **Tools:** Git, Linux, Postman

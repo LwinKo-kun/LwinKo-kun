@@ -2,11 +2,11 @@
   
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Lwin+Ko+Ko+Aung+👋;Aspiring+Cloud+Engineer+☁️;Full-Stack+Developer+🚀;Computer+Science+Student+🎓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Lwin+Ko+Ko+Aung;Software+Engineer;Cloud+%26+Backend+Dev;Future+DevOps+Engineer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Building scalable applications | Engineering P2P systems | Exploring Cloud & DevOps</b>
+    <b>Software Engineering | Cloud Infrastructure | CI/CD & DevOps</b>
   </p>
 
   <!-- Socials & Views Consolidated -->
@@ -25,16 +25,17 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science student at the **University of Computer Studies, Monywa**. I'm focused on learning how to build and deploy scalable applications, engineering peer-to-peer decentralized systems, and developing interactive educational platforms. 
-* 🎓 Completing the **IBM Full Stack Developer Professional Certificate**
-* 🛡️ Hold a **Junior Cybersecurity Analyst** credential
+I am a Computer Science student at the **University of Computer Studies, Monywa**. I am highly focused on building scalable backend systems, working with cloud infrastructure, and automating deployments. My goal is to work as a Backend or Cloud Engineer, eventually transitioning fully into DevOps as I gain more industry experience.
+* 🎓 Currently working towards the **IBM Full Stack Developer Professional Certificate**
+* ⚙️ Exploring containerization, orchestration, and CI/CD pipelines
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,mysql,nodejs,laravel,react,docker,kubernetes,aws,gcp,git,linux,ubuntu,postman,supabase&theme=dark&perline=8" alt="Tech Stack" />
+    <!-- Added a few DevOps-focused icons like Github Actions, Bash, and Nginx that fit your workflow -->
+    <img src="https://skillicons.dev/icons?i=js,php,mysql,nodejs,laravel,react,docker,kubernetes,aws,gcp,git,githubactions,linux,ubuntu,bash,supabase&theme=dark&perline=8" alt="Tech Stack" />
   </a>
 </p>
 

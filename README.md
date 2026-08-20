@@ -42,15 +42,15 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ---
 
 ### 📊 GitHub Stats & Activity
-<div align="center">
-  <img width="48%" src="https://stats.justcaliturner.dev/api?username=LwinKo-kun&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://stats.justcaliturner.dev/api/top-langs/?username=LwinKo-kun&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=LwinKo-kun&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+</p>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---

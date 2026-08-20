@@ -43,8 +43,8 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br>

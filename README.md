@@ -41,9 +41,10 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Streak & Languages
+
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=LwinKo-kun&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 

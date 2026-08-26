@@ -53,11 +53,9 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 <br>
 
-<!-- Activity Graph pulled safely from your output branch -->
+<!-- Hosted Activity Graph using direct raw link -->
 <div align="center">
-  <picture>
-    <img alt="Activity Graph" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg" width="100%" alt="Activity Graph">
 </div>
 
 ---

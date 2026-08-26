@@ -34,14 +34,13 @@ jobs:
           pip install gh-space-shooter
           gh-space-shooter ${{ github.repository_owner }} --output dist/space-shooter.gif
 
-      # Generated natively on your repo and saved to dist/activity-graph.svg
+      # Fixed inputs for the Activity Graph action
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
+          username: ${{ github.repository_owner }}
           output_path: dist/activity-graph.svg
-          theme: tokyonight
+          options: "bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true"
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3

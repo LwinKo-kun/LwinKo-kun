@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=fe428e&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Lwin+Ko+Ko+Aung;Software+Engineer;Cloud+%26+Backend+Dev;Future+DevOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Lwin+Ko+Ko+Aung;Software+Engineer;Cloud+%26+Backend+Dev;Future+DevOps+Engineer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -17,7 +17,7 @@
   </p>
 
   <a href="https://github.com/LwinKo-kun">
-    <img src="https://komarev.com/ghpvc/?username=LwinKo-kun&label=Profile%20Views&color=fe428e&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=LwinKo-kun&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   </a>
 
 </div>
@@ -44,17 +44,21 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 <div align="center">
   <a href="https://github.com/LwinKo-kun">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=LwinKo-kun&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
   </a>
   <a href="https://github.com/LwinKo-kun">
-    <img src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=LwinKo-kun&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&hide_border=true&area=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg">
+    <img alt="Activity Graph" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg" width="100%">
+  </picture>
 </div>
 
 ---
@@ -62,15 +66,25 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ### 🚀 GitHub Contribution Space Shooter
 <div align="center">
   <picture>
-    <!-- Pulling the images from the "output" branch where the Action saves them -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/space-shooter-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/space-shooter.svg">
     <img alt="GitHub Contribution Space Shooter" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/space-shooter.svg" width="100%">
   </picture>
 </div>
 
+---
+
+### 🐍 GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>

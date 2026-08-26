@@ -42,10 +42,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Download Activity Graph
-        run: |
-          curl -o dist/activity-graph.svg --retry 3 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true"
-
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

@@ -53,12 +53,9 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 
 <br>
 
+<!-- Live Activity Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg">
-    <img alt="Activity Graph" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/activity-graph.svg" width="100%">
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -77,7 +74,8 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake.svg">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LwinKo-kun&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />    </picture>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br>

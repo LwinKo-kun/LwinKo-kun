@@ -2,13 +2,12 @@ name: Generate GitHub Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Updates automatically every day
-  workflow_dispatch: # Allows manual execution
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
-# Grants permission to push the generated files to your repo
 permissions:
   contents: write
 
@@ -18,20 +17,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Create a folder to hold all the images
       - name: Create dist directory
         run: mkdir -p dist
 
-      # 1. Generate Space Shooter
+      # Fixed: Uses correct older syntax for the Space Shooter
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/space-shooter.svg
-            dist/space-shooter-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          output-path: dist/space-shooter.svg
 
-      # 2. Generate Contribution Snake
+      # Snake uses modern v3 syntax
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -40,12 +37,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Generate Activity Graph (Downloads safely in the background)
       - name: Download Activity Graph
         run: |
           curl -o dist/activity-graph.svg --retry 3 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true"
 
-      # 4. Push EVERYTHING to the output branch at once
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

@@ -66,7 +66,7 @@ I am a Computer Science student at the **University of Computer Studies, Monywa*
 ### 🚀 GitHub Contribution Space Shooter
 <div align="center">
   <picture>
-    <img alt="GitHub Contribution Space Shooter" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/space-shooter.svg" width="100%">
+    <img alt="GitHub Contribution Space Shooter" src="https://raw.githubusercontent.com/LwinKo-kun/LwinKo-kun/output/space-shooter.gif" width="100%">
   </picture>
 </div>
 
